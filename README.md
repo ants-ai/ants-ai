@@ -1,7 +1,7 @@
 # Ants AI 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/ants-ai?label=Follow&style=social)](https://github.com/ants-ai)
-[![Ants AI](https://img.shields.io/twitter/follow/YourHandle?style=social)](https://twitter.com/realantsai)
+[![Ants AI](https://img.shields.io/twitter/follow/realantsai?style=social)](https://twitter.com/realantsai)
 
 ## About Me
 
