@@ -1,8 +1,7 @@
-# Hi there, I'm ants-ai 👋
+# Ants AI 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/ants-ai?label=Follow&style=social)](https://github.com/ants-ai)
-[![Linkedin: Your Name](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/)
-[![Twitter: Your Handle](https://img.shields.io/twitter/follow/YourHandle?style=social)](https://twitter.com/YourHandle)
+[![Twitter: Your Handle](https://img.shields.io/twitter/follow/YourHandle?style=social)](https://twitter.com/realantsai)
 
 ## About Me
 
